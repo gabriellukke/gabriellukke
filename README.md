@@ -5,7 +5,7 @@
 - 👱🏻 I'm 19 years old, brazilian and living in Osasco - SP.
 - 🌱 I'm on a FullStack Developer Course at [Trybe].
 - 👯 I'm looking for job oportunities as a software developer.
-- 🥅 2020 - 2021 Goals: Get my first job as a software developer and finish my course at trybe.
+- 🥅 2021 Goals: Get my first job as a software developer and finish my course at trybe.
 - ⚡ I love code, play video games and playing sports.
 
 ### Languages and Tools:
@@ -16,7 +16,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/redux.png" />
+<img align="left" alt="Jest" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/jest.png" />
 <img align="left" alt="RTL" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/rtl.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/nodejs.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mysql2.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/terminal.png" />
