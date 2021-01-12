@@ -21,7 +21,6 @@
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/nodejs.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mysql2.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mongodb.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/terminal.png" />
