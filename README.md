@@ -5,7 +5,7 @@
 - 👱🏻 I'm 20 years old, brazilian and living in Osasco - SP.
 - 🌱 I'm currently an Instructor at [Trybe].
 - 👯 I'm looking to improve my skills as a Technology/Development Instructor.
-- 🥅 2021 Goals: I want to help as many people as I can with instructing on Web Development and learn new tecnologies.
+- 🥅 2021 Goals: I want to help as many people as I can with instructing on Web Development and learn new technologies.
 - ⚡ I love code, play video games and playing sports.
 
 ### Languages and Tools:
