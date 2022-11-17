@@ -3,9 +3,9 @@
 ## About me
 
 - 👱🏻 I'm 21 years old, brazilian and living in Curitiba - PR.
-- 🌱 I'm currently an Instructor at [Trybe].
-- 👯 I'm looking to improve my skills as a Technology/Development Instructor.
-- 🥅 2022 Goals: I want to help as many people as I can with instructing on Web Development and learn new technologies to add more value to the projects I'm working on.
+- 🌱 I'm currently learning how to use VIM.
+- 👯 I'm looking to improve my skills as a Software Engineer.
+- 🥅 2023 Goals: I want to help as many people as I can with instructing on Web Development and learn new technologies to add more value to the projects I'm working on.
 - ⚡ I love code, play video games and playing sports.
 
 ### Languages and Tools:
@@ -36,5 +36,4 @@
 <br />
 <br />
 
-[Trybe]: https://www.betrybe.com/
 [linkedin]: https://www.linkedin.com/in/gabriel-lucas-oliveira-almeida/
