@@ -12,5 +12,5 @@ Python • Django • TypeScript • React • Next.js • PostgreSQL • Docker
 
 ## Connect
 
-📫 gabriel.dev.almeida@outlook.com
-🔗 linkedin.com/in/gabriel-dev-almeida/
+📫 gabriel.dev.almeida@outlook.com <br/>
+🔗 linkedin.com/in/gabriel-dev-almeida
